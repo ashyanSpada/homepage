@@ -1,5 +1,3 @@
-# Why Modern Programming Languages Prefer Handwritten Parsers?
-
 ## Introduction
 As we all know, there are many parser-generated techniques like Yacc, Bison and ANTLR. They are either an LL Parser or an LR Parser. Such parsers are automated. A compiler designer can easily "implement" a sophisticated parser with such automation techniques on the basis of a predefined CFG or PEG grammar. These delicate techniques facilitate the process of designing and implementation of a novel programming language. However, the majority of modern languages like Go and Rust abandoned such automation techniques and switched to a handwritten candidate. Why technologies that were prosperous decades ago are not popular today?
 
