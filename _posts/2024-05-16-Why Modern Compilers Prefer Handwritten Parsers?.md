@@ -561,13 +561,13 @@ The performance benchmark highly corresponds to the parsing capability. I conduc
    "list": [1 , 2, false]
 }
 ```
-![image](https://github.com/ashyanSpada/homepage/blob/main/_posts/assets/Handwritten.png)
+![image](./assets/Handwritten.png)
 <center>Benchmark for Handwritten Parser</center>
 
-![image](https://github.com/ashyanSpada/homepage/blob/main/_posts/assets/LL.png)
+![image](./assets/LL.png)
 <center>Benchmark for Auto-generated LL Parser</center>
 
-![image](https://github.com/ashyanSpada/homepage/blob/main/_posts/assets/LR.png)
+![image](./assets/LR.png)
 <center>Benchmark for Auto-generated LR Parser</center>
 
 The above pictures show that the handwritten parser performs much better than the auto-generated ones with 19846 ns/op and 78 allocs/op which are 10 times faster and more space-efficient than the latter.
