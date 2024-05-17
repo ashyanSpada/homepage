@@ -3,9 +3,10 @@ As we all know, there are many parser-generated techniques like Yacc, Bison and 
 
 ## Short Answers
 I think there are three major reasons for the revival of handwritten parsers:
-Efficiency
-Error Tracing
-Code Optimization
+
+* Efficiency
+* Error Tracing
+* Code Optimization
 
 ## Experiment
 I make an experiment here to better illustrate the three reasons listed above. The experiment is simple, deserializing a valid JSON string. Specifically, the JSON deserialization task is composed of two subtasks:
