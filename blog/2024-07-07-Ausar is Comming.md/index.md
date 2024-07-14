@@ -2,7 +2,7 @@
 slug: "Ausar is Comming"
 title: "Ausar is Comming"
 authors: ausar
-tags: [hello, docusaurus]
+tags: ['compiler design', 'handwritten parser', 'Go']
 ---
 
 ## Introduction

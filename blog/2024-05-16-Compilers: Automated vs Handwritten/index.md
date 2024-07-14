@@ -2,7 +2,7 @@
 slug: "Compilers: Automated vs Handwritten"
 title: "Compilers: Automated vs Handwritten"
 authors: ausar
-tags: [hello, docusaurus]
+tags: ['compiler design', 'Go']
 ---
 
 ## Introduction
